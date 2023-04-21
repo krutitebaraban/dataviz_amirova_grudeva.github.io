@@ -22,7 +22,7 @@ h1 {font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetic
 }
 
 #chartdiv {
-  overflow: hidden; /* Hide scrollbars */
+  overflow: hidden; 
   width: 100%;
   height: 500px;
   }
